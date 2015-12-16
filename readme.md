@@ -76,3 +76,12 @@ node server.js
 ## 6. 使用 Postman 测试
 
 http://localhost:9097/api
+
+
+## 7. 安装 nodemon
+
+nodemon 启动服务器端可监视 js 文件是否改变，然后重启
+
+```
+nodemon server.js
+```
