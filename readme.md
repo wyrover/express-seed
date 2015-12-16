@@ -83,5 +83,9 @@ http://localhost:9097/api
 nodemon 启动服务器端可监视 js 文件是否改变，然后重启
 
 ```
+npm install -g nodemon
+```
+
+```
 nodemon server.js
 ```
